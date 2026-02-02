@@ -1,5 +1,6 @@
 # Global-Super-store-Analysis
 Sales analysis project using Excel, Power Query, and Power Pivot
+
 Project Overview
 This project analyzes the Jadons Superstore dataset to uncover insights into sales performance, profitability, customer behavior, and operational efficiency using Excel, Power Query, and Power Pivot.
 
