@@ -51,3 +51,6 @@ Review discount strategies for low-margin sub-categories
 Optimize shipping modes to reduce operational costs
 Focus on high-margin products and customer segments
 Use trend analysis for demand planning
+
+
+https://docs.google.com/spreadsheets/d/1wfELkCFHLZFW-3QzuTRYP9ziyG8kssRX/edit?usp=sharing&ouid=107470388766806039406&rtpof=true&sd=true
